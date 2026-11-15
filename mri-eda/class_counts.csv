@@ -1,0 +1,4 @@
+split,ND,VMD,MD,MoD
+train,4458,3130,1284,88
+valid,651,444,170,15
+test,320,231,84,5

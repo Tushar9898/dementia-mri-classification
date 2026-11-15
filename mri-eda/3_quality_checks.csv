@@ -1,0 +1,10 @@
+check,result
+Total images,10880
+Unreadable / corrupt files,0
+Image size and mode,"{((224, 224), 'RGB'): 10880}"
+CSV rows with all-zero labels (fixed using filename label),21
+CSV label disagrees with filename label (filename used),7
+Identical files found in more than one split,0
+Source images shared train/valid,0
+Source images shared train/test,0
+Train: images / unique source images,8960 / 4480
